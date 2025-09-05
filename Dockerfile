@@ -1,4 +1,4 @@
-FROM ghcr.io/msd-live/jupyter/python-notebook:latest
+FROM ghcr.io/msd-live/jupyter/datascience-notebook:latest
 
 USER root
 
